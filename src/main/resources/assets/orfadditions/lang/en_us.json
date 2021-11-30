@@ -1,5 +1,6 @@
 {
   "item.orfadditions.amethyst" : "Amethyst",
   "item.orfadditions.copium" : "Copium",
-  "item.orfadditions.loser" : "L"
+  "item.orfadditions.fat_l" : "L",
+  "itemGroup.orfAdditionsTab": "OrfAdditions"
 }
