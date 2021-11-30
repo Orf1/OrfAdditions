@@ -1,5 +1,6 @@
 package dev.orf1.OrfAdditions;
 
+import dev.orf1.OrfAdditions.block.ModBlocks;
 import dev.orf1.OrfAdditions.item.ModItems;
 import net.minecraft.block.Block;
 import net.minecraftforge.common.MinecraftForge;
@@ -27,6 +28,7 @@ public class OrfAdditions {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
         eventBus.addListener(this::enqueueIMC);
