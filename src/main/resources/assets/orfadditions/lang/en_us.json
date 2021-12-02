@@ -3,5 +3,6 @@
   "item.orfadditions.copium" : "Copium",
   "item.orfadditions.fat_l" : "L",
   "block.orfadditions.amethyst_ore": "Amethyst Ore",
-  "itemGroup.orfAdditionsTab": "OrfAdditions"
+  "itemGroup.orfAdditionsTab": "OrfAdditions",
+  "item.orfadditions.firestone" : "Firestone"
 }
