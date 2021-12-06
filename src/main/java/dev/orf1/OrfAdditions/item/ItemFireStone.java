@@ -18,8 +18,8 @@ import net.minecraft.world.World;
 
 import java.util.Objects;
 
-public class FirestoneItem extends Item {
-    public FirestoneItem(Properties properties) {
+public class ItemFireStone extends Item {
+    public ItemFireStone(Properties properties) {
         super(properties);
     }
 

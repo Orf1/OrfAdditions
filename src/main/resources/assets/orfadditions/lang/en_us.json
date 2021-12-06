@@ -4,7 +4,7 @@
   "item.orfadditions.fat_l" : "L",
   "block.orfadditions.amethyst_ore": "Amethyst Ore",
   "itemGroup.orfAdditionsTab": "OrfAdditions",
-  "item.orfadditions.firestone" : "Firestone",
-  "item.orfadditions.yeetstone" : "YeetStone"
+  "item.orfadditions.stone_fire" : "Fire Stone",
+  "item.orfadditions.stone_velocity" : "Velocity Stone"
 
 }
