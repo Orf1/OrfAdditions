@@ -18,6 +18,8 @@ public class ModItems {
             () -> new Item(new Item.Properties().group(ModItemGroup.ORFADDITIONS)));
     public static final RegistryObject<Item> FIRESTONE = ITEMS.register("firestone",
             () -> new FirestoneItem(new Item.Properties().group(ModItemGroup.ORFADDITIONS).maxDamage(8)));
+    public static final RegistryObject<Item> YEETSTONE = ITEMS.register("yeetstone",
+            () -> new YeetstoneItem(new Item.Properties().group(ModItemGroup.ORFADDITIONS)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
